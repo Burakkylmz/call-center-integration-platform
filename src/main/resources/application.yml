@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: call-center-integration-platform
+
+server:
+  port: 8080
+
+integrations:
+  crm:
+    timeout: 750ms
